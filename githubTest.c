@@ -2,5 +2,5 @@
 
 int main(){
 	printf('This is my test, and it\'s fantastic.');
-	return 0;
+	return 1;
 }
